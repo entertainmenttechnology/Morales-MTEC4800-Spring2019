@@ -8,17 +8,16 @@ New York City College of Technology Spring 2019
 ## Instructor
 
 Sebastian Morales<br/>
-**Email:** [sebmoralesprado@gmail.com](mailto:sebmoralesprado@gmail.com)<br/>
+**Email:** [SMoralesPrado@citytech.cuny.edu](mailto:SMoralesPrado@citytech.cuny.edu)<br/>
 **Slack:** [https://mtec4800.slack.com](https://mtec4800.slack.com/)<br/>
 **Office Hours:** By Appointment<br/>
 
 ## Class Site
-
-􏰌􏰆􏰆􏰒􏰎􏰠􏰡􏰡􏰔􏰄􏰆􏰌􏰓􏰂􏰢􏰅􏰇􏰑􏰡􏰖􏰈􏰆􏰖􏰃􏰆􏰁􏰄􏰈􏰑􏰖􏰈􏰆􏰆􏰖􏰅􏰌􏰈􏰇􏰏􏰇􏰔􏰍􏰡􏰣􏰁􏰃􏰏􏰖􏰤􏰥􏰚􏰣􏰐􏰜􏰜􏰦􏰝􏰤􏰛􏰒􏰃􏰄􏰈􏰔􏰜􏰝􏰞􏰟[https://github.com/entertainmenttechnology/morales-MTEC4800-Spring2019](https://github.com/entertainmenttechnology/morales-MTEC4800-Spring2019)
+[https://github.com/entertainmenttechnology/morales-MTEC4800-Spring2019](https://github.com/entertainmenttechnology/morales-MTEC4800-Spring2019)
 
 ## Class Meetings
 
-Wednesdays 2:00pm-5:40pm<br/>Room: V321 and 103A
+Wednesdays 2:15pm-5:40pm<br/>Room: 103A and V321
 
 ## Description
 
@@ -87,35 +86,20 @@ In order to receive disability-related academic accommodations, students must fi
 - **Midterm and Final Project critiques are mandatory** and cannot be made up. Missing a critique will result in a deduction of one letter grade for the corresponding project.
 
 ## Schedule/Calendar
-
 **Jan 30**-Course Introduction and Overview
-
-**Feb 13**- Portfolio Sharing & Robotics Demo
-
-**Feb 20**- Brainstorming
-
-**Feb 27**- 2 Ideas
-
-**March 6**-Technical Research
-
-**March 13**- Idea Selection & Start Sprint 1
-
-**March 20**- Sprint 1
-
+**Feb 6 -**Portfolio Sharing & Robotics Demo
+**Feb 13**- Brainstorming
+**Feb 20**- 2 Ideas
+**Feb 27**- Technical Research
+**March 6**-Idea Selection & Start Sprint 1
+**March 13**- Sprint 1
+**March 20**- Sprint 2
 **March 27**- Sprint 2 
-
-**April 3**- Sprint 2
-
-**April 10**- Prototype  Review & Start Sprint 3
-
-**April 17**- Sprint 3
-
+**April 3**- Prototype  Review & Start Sprint 3
+**April 10**- Sprint 3
+**April 17**- Sprint 4
 **April 24**- Sprit 4
-
-**May 1**- Sprint 4
-
-**May 8**- Final Documentation Report
-
+**May 1**- Sprint 5
+**May 8**- Sprint 5 -Final Documentation Report
 **May 15**- Reading Day (No Classes Meet)
-
 **May 22**- Final Project Critique
