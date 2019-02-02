@@ -89,7 +89,7 @@ In order to receive disability-related academic accommodations, students must fi
 
 **Jan 30**-Course Introduction and Overview
 
-**Feb 6 -**Portfolio Sharing & Robotics Demo
+**Feb 6**- Portfolio Sharing & Robotics Demo
 
 **Feb 13**- Brainstorming
 
