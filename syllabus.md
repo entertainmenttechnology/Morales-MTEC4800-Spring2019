@@ -86,20 +86,37 @@ In order to receive disability-related academic accommodations, students must fi
 - **Midterm and Final Project critiques are mandatory** and cannot be made up. Missing a critique will result in a deduction of one letter grade for the corresponding project.
 
 ## Schedule/Calendar
+
 **Jan 30**-Course Introduction and Overview
+
 **Feb 6 -**Portfolio Sharing & Robotics Demo
+
 **Feb 13**- Brainstorming
+
 **Feb 20**- 2 Ideas
+
 **Feb 27**- Technical Research
+
 **March 6**-Idea Selection & Start Sprint 1
+
 **March 13**- Sprint 1
+
 **March 20**- Sprint 2
+
 **March 27**- Sprint 2 
+
 **April 3**- Prototype  Review & Start Sprint 3
+
 **April 10**- Sprint 3
+
 **April 17**- Sprint 4
+
 **April 24**- Sprit 4
+
 **May 1**- Sprint 5
+
 **May 8**- Sprint 5 -Final Documentation Report
+
 **May 15**- Reading Day (No Classes Meet)
+
 **May 22**- Final Project Critique
