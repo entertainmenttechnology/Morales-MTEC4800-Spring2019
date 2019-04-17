@@ -109,9 +109,9 @@ In order to receive disability-related academic accommodations, students must fi
 
 **April 10**- Sprint 3
 
-**April 17**- Sprint 4
+**April 17**- Sprint 3
 
-**April 24**- Sprit 4
+**April 24**- **Spring Break**
 
 **May 1**- Sprint 5
 
